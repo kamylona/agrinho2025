@@ -1,7 +1,7 @@
 :root{
   --cor-de-fundo: #4b7d2b;
   --cor-de-texto:#EFE9D5;
-  --cor-texto-dois:#71BBB2;
+  --cor-texto-dois:#356560;
 }
 
 body {
@@ -42,19 +42,19 @@ nav .menu {
 }
 
 .menu li a {
-  color: #fff;
+  color: #fbfbfb;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
 }
 
 .menu li a:hover {
-  color: #ffcc00;
+  color: #2fff00;
 }
 
 
 .titulo {
-  background-color: #eee;
+  background-color: #72b349;
   padding: 40px;
   text-align: center;
 }
@@ -121,7 +121,7 @@ nav .menu {
 }
 
 footer {
-  background-color: #444;
+  background-color: #4b7d2b;
   color: #fff;
   text-align: center;
   padding: 20px;
